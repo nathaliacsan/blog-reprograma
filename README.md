@@ -2,7 +2,7 @@
 
 Esse desafio foi passado na semana 09 do curso de back-end.
 
-### Orientações passadas para o desafio
+## Orientações passadas para o desafio
 
 Criaremos as API'S para as postagens no Blog da Reprograma.
 
@@ -23,7 +23,7 @@ Deletar um post
 
 ### Motivação
 
-Fixar ainda mais os conceitos de GET e me desenvolver com POST e delete, integrantes do método HTTP.
+Fixar ainda mais os conceitos de GET e me desenvolver com POST e DELETE, integrantes do método HTTP.
 
 ### Ferramentas utilizadas
 
