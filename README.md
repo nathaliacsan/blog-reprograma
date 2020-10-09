@@ -27,7 +27,7 @@ Fixar ainda mais os conceitos de GET e me desenvolver com POST e DELETE, integra
 
 ### Arquitetura
 
-<img src="./img/Em_Contrução.png"/>
+<img src="/img/Em_Contrução.png"/>
 
 ### Ferramentas utilizadas
 
